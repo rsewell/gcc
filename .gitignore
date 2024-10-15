@@ -66,8 +66,10 @@ stamp-*
 *.stamp
 
 # ignore in-tree prerequisites
-/mpfr*
-/mpc*
-/gmp*
-/isl*
-/gettext*
+#/mpfr*
+#/mpc*
+#/gmp*
+#/isl*
+#/gettext*
+
+.DS_Store
